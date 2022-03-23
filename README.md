@@ -10,5 +10,5 @@ with teacher’s answers and will be assigned some marks on the basis of
 performance (similarity score). The best answer will be selected for evaluation and
 hence best score will be awarded to students.
 
-❖ I have to find a matching percentage of students’ answers compared to sample
+❖ We have to find a matching percentage of students’ answers compared to sample
 answers and simultaneously give marks to students on their performances.
